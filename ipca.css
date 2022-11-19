@@ -1,0 +1,8 @@
+h1 {
+    padding-top: 4%
+}
+
+#texto-sobre-ipca {
+    word-wrap: break-word;
+    width: 40%;
+}
